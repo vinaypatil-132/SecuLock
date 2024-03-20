@@ -10,10 +10,9 @@ Install SecuLock with Kali linux
 ```bash
   sudo apt update
   sudo apt install git wget
-  git clone <link....>
+  git clone https://github.com/vinaypatil-132/SecuLock.git
   cd SecuLock
   chmod +x SecuLock.sh
-  ./SecuLock.sh
 ```
     
 ## Usage/Examples
